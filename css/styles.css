@@ -113,6 +113,7 @@ nav .links {
 .home .hero .callout h1 {
   font-size: 60px;
   font-family: "Proxima Nova ScOsf";
+  font-weight: 100;
 }
 .home .hero .callout h4 {
   font-size: 20px;
@@ -163,6 +164,7 @@ nav .links {
 .home .travel-cards .card .details h1 {
   font-size: 310%;
   margin: 0;
+  font-weight: 100;
 }
 .home .travel-cards .card .details h2 {
   font-size: 155%;
@@ -213,6 +215,7 @@ nav .links {
   font-size: 60px;
   font-family: "Proxima Nova ScOsf";
   margin-bottom: 28px;
+  font-weight: 100;
 }
 .home form input,
 .home form textarea {
@@ -383,7 +386,7 @@ footer .wrapper .links i:hover {
   font-family: "Proxima Nova ScOsf";
   text-decoration: underline;
   font-weight: 100;
-  letter-spacing: 6px;
+  letter-spacing: 4px;
   text-decoration-thickness: 2px;
   text-underline-offset: 14px;
   margin-bottom: 35px;
