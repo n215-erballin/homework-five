@@ -46,6 +46,16 @@ nav {
     justify-content: flex-end;
   }
 }
+.nav-black {
+  position: relative;
+  border-bottom: 2px solid black;
+  a {
+    color: black;
+  }
+  .logo {
+    background-image: url("../images/logo/logo-black.svg");
+  }
+}
 
 @media all and (max-width: $mobile-screen-width) {
   nav {
