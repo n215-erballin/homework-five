@@ -406,7 +406,7 @@ footer .wrapper .links i:hover {
   max-width: 676px;
 }
 .about .clientQuotes .client-quote-box .client-img {
-  background-image: url("/images/about-client-01.jpg");
+  background-image: url("../images/about-client-01.jpg");
   width: 260px;
   flex-shrink: 0;
   aspect-ratio: 260/150;
@@ -415,7 +415,7 @@ footer .wrapper .links i:hover {
   background-repeat: no-repeat;
 }
 .about .clientQuotes .client-quote-box .alt-client {
-  background-image: url("/images/about-client-02.jpg");
+  background-image: url("../images/about-client-02.jpg");
 }
 .about .clientQuotes .client-quote-box .client-info {
   display: flex;

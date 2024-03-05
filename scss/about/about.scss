@@ -38,7 +38,7 @@
       gap: 21px;
       max-width: 676px;
       .client-img {
-        background-image: url("/images/about-client-01.jpg");
+        background-image: url("../images/about-client-01.jpg");
         width: 260px;
         flex-shrink: 0;
         aspect-ratio: 260/150;
@@ -47,7 +47,7 @@
         background-repeat: no-repeat;
       }
       .alt-client {
-        background-image: url("/images/about-client-02.jpg");
+        background-image: url("../images/about-client-02.jpg");
       }
       .client-info {
         display: flex;
